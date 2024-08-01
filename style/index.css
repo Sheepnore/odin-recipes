@@ -1,0 +1,29 @@
+* {
+  background-color: white;
+}
+
+#title{
+  background-color: antiquewhite;
+  margin: 30px;
+  padding: 20px;
+  border: 1px dotted white;
+}
+
+h1{
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+#list_of_links{
+  background-color: antiquewhite;
+  margin: 30px;
+  padding: 10px;
+  text-align: center;
+}
+
+a{
+  color: darkblue;
+  margin: 5px;
+  background-color: antiquewhite;
+  padding: 5px;
+}
